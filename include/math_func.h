@@ -3,5 +3,6 @@
 
 int add(int a, int b);
 int multiple(int a, int b);
+int minus(int a, int b);
 
 #endif // MATH_FUNC_H
